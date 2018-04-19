@@ -1,0 +1,5 @@
+D:\Inacap\2 año\Taller de progra III\MatrizNumerosAleatorios\MatrizNumerosAleatorios\bin\Debug\MatrizNumerosAleatorios.exe.config
+D:\Inacap\2 año\Taller de progra III\MatrizNumerosAleatorios\MatrizNumerosAleatorios\bin\Debug\MatrizNumerosAleatorios.exe
+D:\Inacap\2 año\Taller de progra III\MatrizNumerosAleatorios\MatrizNumerosAleatorios\bin\Debug\MatrizNumerosAleatorios.pdb
+D:\Inacap\2 año\Taller de progra III\MatrizNumerosAleatorios\MatrizNumerosAleatorios\obj\Debug\MatrizNumerosAleatorios.exe
+D:\Inacap\2 año\Taller de progra III\MatrizNumerosAleatorios\MatrizNumerosAleatorios\obj\Debug\MatrizNumerosAleatorios.pdb

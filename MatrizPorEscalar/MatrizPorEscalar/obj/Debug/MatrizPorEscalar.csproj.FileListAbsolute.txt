@@ -1,0 +1,5 @@
+D:\Inacap\2 año\Taller de progra III\MatrizPorEscalar\MatrizPorEscalar\bin\Debug\MatrizPorEscalar.exe.config
+D:\Inacap\2 año\Taller de progra III\MatrizPorEscalar\MatrizPorEscalar\bin\Debug\MatrizPorEscalar.exe
+D:\Inacap\2 año\Taller de progra III\MatrizPorEscalar\MatrizPorEscalar\bin\Debug\MatrizPorEscalar.pdb
+D:\Inacap\2 año\Taller de progra III\MatrizPorEscalar\MatrizPorEscalar\obj\Debug\MatrizPorEscalar.exe
+D:\Inacap\2 año\Taller de progra III\MatrizPorEscalar\MatrizPorEscalar\obj\Debug\MatrizPorEscalar.pdb

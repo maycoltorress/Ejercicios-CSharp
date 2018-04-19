@@ -1,0 +1,6 @@
+D:\Inacap\2 año\Taller de progra III\MatrizPorVector\MatrizPorVector\bin\Debug\MatrizPorVector.exe.config
+D:\Inacap\2 año\Taller de progra III\MatrizPorVector\MatrizPorVector\bin\Debug\MatrizPorVector.exe
+D:\Inacap\2 año\Taller de progra III\MatrizPorVector\MatrizPorVector\bin\Debug\MatrizPorVector.pdb
+D:\Inacap\2 año\Taller de progra III\MatrizPorVector\MatrizPorVector\obj\Debug\MatrizPorVector.csprojResolveAssemblyReference.cache
+D:\Inacap\2 año\Taller de progra III\MatrizPorVector\MatrizPorVector\obj\Debug\MatrizPorVector.exe
+D:\Inacap\2 año\Taller de progra III\MatrizPorVector\MatrizPorVector\obj\Debug\MatrizPorVector.pdb

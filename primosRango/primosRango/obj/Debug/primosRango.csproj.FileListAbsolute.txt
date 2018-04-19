@@ -1,0 +1,6 @@
+D:\Inacap\2 año\Taller de progra III\primosRango\primosRango\bin\Debug\primosRango.exe.config
+D:\Inacap\2 año\Taller de progra III\primosRango\primosRango\bin\Debug\primosRango.exe
+D:\Inacap\2 año\Taller de progra III\primosRango\primosRango\bin\Debug\primosRango.pdb
+D:\Inacap\2 año\Taller de progra III\primosRango\primosRango\obj\Debug\primosRango.csprojResolveAssemblyReference.cache
+D:\Inacap\2 año\Taller de progra III\primosRango\primosRango\obj\Debug\primosRango.exe
+D:\Inacap\2 año\Taller de progra III\primosRango\primosRango\obj\Debug\primosRango.pdb
